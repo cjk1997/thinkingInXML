@@ -1,0 +1,58 @@
+<imdb>
+    <movies>
+        <movie>
+            <title>Pride and Prejudice</title>
+            <synopsis>
+                Sparks fly when spirited Elizabeth Bennet meets 
+                single, rich, and proud Mr. Darcy. But Mr. Darcy 
+                reluctantly finds himself falling in love with a 
+                woman beneath his class. Can each overcome his or 
+                her own pride and prejudice?
+            </synopsis>
+            <director>Joe Wright</director>
+            <actors>Matthew Macfadyen</actors>
+            <actresses>Keira Knightley</actresses>
+            <genre>Drama, Romance</genre>
+            <popularity>
+                <reviews>
+                    <number_of_stars>7.8</number_of_stars>
+                    <rotten_tomatoes>86%</rotten_tomatoes>
+                    <metascore>82</metascore>
+                </reviews>
+            </popularity>
+            <box_office_details>
+                <budget>$28,000,000</budget>
+                <opening_weekend_gross>$2,804,000</opening_weekend_gross>
+                <USA_gross>$38,405,088</USA_gross>
+                <total_worldwide_gross>$121,616,555</total_worldwide_gross>
+            </box_office_details>
+            <release_date>23 November 205</release_date>
+        <movie>
+        <movie>
+            <title>Saving Private Ryan</title>
+            <synopsis>
+            Following the Normandy Landings, a group of U.S. soldiers
+            go behind enemy lines to retrieve a paratrooper whose 
+            brothers have been killed in action.
+            </synopsis>
+            <director>Steven Spielberg</director>
+            <actors>Tom Hanks, Matt Damon, Tom Sizemore</actors>
+            <actresses></actresses>
+            <genre>Drama, War</genre>
+            <popularity>
+                <reviews>
+                    <number_of_stars>8.6</number_of_stars>
+                    <rotten_tomatoes>93%</rotten_tomatoes>
+                    <metascore>91</metascore>
+                </reviews>
+            </popularity>
+            <box_office_details>
+                <budget>$70,000,000</budget>
+                <opening_weekend_gross>$30,576,104</opening_weekend_gross>
+                <USA_gross>$217,049,603</USA_gross>
+                <total_worldwide_gross>$482,349,603</total_worldwide_gross>
+            </box_office_details>
+            <release_date>26 July 1998</release_date>
+        <movie>
+    </movies>
+<imdb>
